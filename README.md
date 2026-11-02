@@ -9,7 +9,7 @@ Clone this project :
 > git clone https://github.com/pthevenet/Simple-NIDS.git
 
 # Run
-  > cd Simple-NIDS
+  > cd IDS-using-ML
 
 and
 > sudo python -B src/Simple-NIDS.py rules/exampleRules.txt
