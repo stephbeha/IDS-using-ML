@@ -9,13 +9,13 @@ Clone this project :
 > git clone https://github.com/stephbeha/IDS-using-ML
 
 # Run
-  > cd IDS-using-ML
+  > cd ML-IDS
 
 and
-> sudo python -B src/Simple-NIDS.py rules/exampleRules.txt
+> sudo python -B src/ML-IDS.py rules/exampleRules.txt
 
 or
-> sudo python -B src/Simple-NIDS.py \<rule file\>
+> sudo python -B src/ML-IDS.py \<rule file\>
 
 # Stop
 > ctrl + shift + \
